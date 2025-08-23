@@ -4,4 +4,5 @@ Tento projekt je vytvořen na základě zadání v Testing Akademii v rámci kur
 
 ### Poznámky pro hodnotitele
 
-Zasílám k hodnocení první release pytest playwright stránky www.cd.cz
+Uptate 20250823: Fix na základě feedbacku
+~~Zasílám k hodnocení první release pytest playwright stránky www.cd.cz~~
